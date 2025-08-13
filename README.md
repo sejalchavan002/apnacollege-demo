@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my Git repo
 <br>
-Author - Sejal Chavan
+Author - Sejal Apna College
